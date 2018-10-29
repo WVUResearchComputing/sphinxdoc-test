@@ -1,0 +1,1 @@
+Search.setIndex({filenames:["source/includeme","index"],titles:["TITLE RST","Welcome to WVU&#8217;s documentation!"],terms:{content:1,index:1,modul:1,search:1,page:1,text:0},objects:{},objtypes:{},objnames:{},titleterms:{welcom:1,wvu:1,document:1,indic:1,tabl:1,titl:0,rst:0,chapter:0},envversion:43})
